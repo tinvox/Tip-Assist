@@ -27,6 +27,24 @@
 		B118B32C199E8CD300D72A83 /* GWBurgerSlider.m in Sources */ = {isa = PBXBuildFile; fileRef = B118B32B199E8CD300D72A83 /* GWBurgerSlider.m */; };
 		B118B32F199E8DBD00D72A83 /* GWClockSlider.m in Sources */ = {isa = PBXBuildFile; fileRef = B118B32E199E8DBD00D72A83 /* GWClockSlider.m */; };
 		B118B332199E8E2C00D72A83 /* GWFaceSlider.m in Sources */ = {isa = PBXBuildFile; fileRef = B118B331199E8E2C00D72A83 /* GWFaceSlider.m */; };
+		B1A89722199EACDA006CADD7 /* BAR LEFT.png in Resources */ = {isa = PBXBuildFile; fileRef = B1A89710199EACDA006CADD7 /* BAR LEFT.png */; };
+		B1A89723199EACDA006CADD7 /* BAR RIGHT.png in Resources */ = {isa = PBXBuildFile; fileRef = B1A89711199EACDA006CADD7 /* BAR RIGHT.png */; };
+		B1A89724199EACDA006CADD7 /* BURGER.png in Resources */ = {isa = PBXBuildFile; fileRef = B1A89712199EACDA006CADD7 /* BURGER.png */; };
+		B1A89725199EACDA006CADD7 /* BURGERsmall.png in Resources */ = {isa = PBXBuildFile; fileRef = B1A89713199EACDA006CADD7 /* BURGERsmall.png */; };
+		B1A89726199EACDA006CADD7 /* CLOCK.png in Resources */ = {isa = PBXBuildFile; fileRef = B1A89714199EACDA006CADD7 /* CLOCK.png */; };
+		B1A89727199EACDA006CADD7 /* CLOCKsmall.png in Resources */ = {isa = PBXBuildFile; fileRef = B1A89715199EACDA006CADD7 /* CLOCKsmall.png */; };
+		B1A89728199EACDA006CADD7 /* DOLLAR A.png in Resources */ = {isa = PBXBuildFile; fileRef = B1A89716199EACDA006CADD7 /* DOLLAR A.png */; };
+		B1A89729199EACDA006CADD7 /* DOLLAR B.png in Resources */ = {isa = PBXBuildFile; fileRef = B1A89717199EACDA006CADD7 /* DOLLAR B.png */; };
+		B1A8972A199EACDA006CADD7 /* FACE.png in Resources */ = {isa = PBXBuildFile; fileRef = B1A89718199EACDA006CADD7 /* FACE.png */; };
+		B1A8972B199EACDA006CADD7 /* FACEsmall.png in Resources */ = {isa = PBXBuildFile; fileRef = B1A89719199EACDA006CADD7 /* FACEsmall.png */; };
+		B1A8972C199EACDA006CADD7 /* GESTURE MODE.png in Resources */ = {isa = PBXBuildFile; fileRef = B1A8971A199EACDA006CADD7 /* GESTURE MODE.png */; };
+		B1A8972D199EACDA006CADD7 /* ICON SPLASH.png in Resources */ = {isa = PBXBuildFile; fileRef = B1A8971B199EACDA006CADD7 /* ICON SPLASH.png */; };
+		B1A8972E199EACDA006CADD7 /* INTRO SLIDER MODE.png in Resources */ = {isa = PBXBuildFile; fileRef = B1A8971C199EACDA006CADD7 /* INTRO SLIDER MODE.png */; };
+		B1A8972F199EACDA006CADD7 /* JERKFACE MODE.png in Resources */ = {isa = PBXBuildFile; fileRef = B1A8971D199EACDA006CADD7 /* JERKFACE MODE.png */; };
+		B1A89730199EACDA006CADD7 /* MODE MENU.png in Resources */ = {isa = PBXBuildFile; fileRef = B1A8971E199EACDA006CADD7 /* MODE MENU.png */; };
+		B1A89731199EACDA006CADD7 /* RECEIPT MODE.png in Resources */ = {isa = PBXBuildFile; fileRef = B1A8971F199EACDA006CADD7 /* RECEIPT MODE.png */; };
+		B1A89732199EACDA006CADD7 /* SERVER.png in Resources */ = {isa = PBXBuildFile; fileRef = B1A89720199EACDA006CADD7 /* SERVER.png */; };
+		B1A89733199EACDA006CADD7 /* SERVERsmall.png in Resources */ = {isa = PBXBuildFile; fileRef = B1A89721199EACDA006CADD7 /* SERVERsmall.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -69,6 +87,24 @@
 		B118B32E199E8DBD00D72A83 /* GWClockSlider.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GWClockSlider.m; sourceTree = "<group>"; };
 		B118B330199E8E2C00D72A83 /* GWFaceSlider.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GWFaceSlider.h; sourceTree = "<group>"; };
 		B118B331199E8E2C00D72A83 /* GWFaceSlider.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GWFaceSlider.m; sourceTree = "<group>"; };
+		B1A89710199EACDA006CADD7 /* BAR LEFT.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "BAR LEFT.png"; sourceTree = "<group>"; };
+		B1A89711199EACDA006CADD7 /* BAR RIGHT.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "BAR RIGHT.png"; sourceTree = "<group>"; };
+		B1A89712199EACDA006CADD7 /* BURGER.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BURGER.png; sourceTree = "<group>"; };
+		B1A89713199EACDA006CADD7 /* BURGERsmall.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BURGERsmall.png; sourceTree = "<group>"; };
+		B1A89714199EACDA006CADD7 /* CLOCK.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CLOCK.png; sourceTree = "<group>"; };
+		B1A89715199EACDA006CADD7 /* CLOCKsmall.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CLOCKsmall.png; sourceTree = "<group>"; };
+		B1A89716199EACDA006CADD7 /* DOLLAR A.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "DOLLAR A.png"; sourceTree = "<group>"; };
+		B1A89717199EACDA006CADD7 /* DOLLAR B.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "DOLLAR B.png"; sourceTree = "<group>"; };
+		B1A89718199EACDA006CADD7 /* FACE.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FACE.png; sourceTree = "<group>"; };
+		B1A89719199EACDA006CADD7 /* FACEsmall.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FACEsmall.png; sourceTree = "<group>"; };
+		B1A8971A199EACDA006CADD7 /* GESTURE MODE.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "GESTURE MODE.png"; sourceTree = "<group>"; };
+		B1A8971B199EACDA006CADD7 /* ICON SPLASH.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ICON SPLASH.png"; sourceTree = "<group>"; };
+		B1A8971C199EACDA006CADD7 /* INTRO SLIDER MODE.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "INTRO SLIDER MODE.png"; sourceTree = "<group>"; };
+		B1A8971D199EACDA006CADD7 /* JERKFACE MODE.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "JERKFACE MODE.png"; sourceTree = "<group>"; };
+		B1A8971E199EACDA006CADD7 /* MODE MENU.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "MODE MENU.png"; sourceTree = "<group>"; };
+		B1A8971F199EACDA006CADD7 /* RECEIPT MODE.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "RECEIPT MODE.png"; sourceTree = "<group>"; };
+		B1A89720199EACDA006CADD7 /* SERVER.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SERVER.png; sourceTree = "<group>"; };
+		B1A89721199EACDA006CADD7 /* SERVERsmall.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SERVERsmall.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -161,6 +197,24 @@
 		9548240D19990076000745FE /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				B1A89710199EACDA006CADD7 /* BAR LEFT.png */,
+				B1A89711199EACDA006CADD7 /* BAR RIGHT.png */,
+				B1A89712199EACDA006CADD7 /* BURGER.png */,
+				B1A89713199EACDA006CADD7 /* BURGERsmall.png */,
+				B1A89714199EACDA006CADD7 /* CLOCK.png */,
+				B1A89715199EACDA006CADD7 /* CLOCKsmall.png */,
+				B1A89716199EACDA006CADD7 /* DOLLAR A.png */,
+				B1A89717199EACDA006CADD7 /* DOLLAR B.png */,
+				B1A89718199EACDA006CADD7 /* FACE.png */,
+				B1A89719199EACDA006CADD7 /* FACEsmall.png */,
+				B1A8971A199EACDA006CADD7 /* GESTURE MODE.png */,
+				B1A8971B199EACDA006CADD7 /* ICON SPLASH.png */,
+				B1A8971C199EACDA006CADD7 /* INTRO SLIDER MODE.png */,
+				B1A8971D199EACDA006CADD7 /* JERKFACE MODE.png */,
+				B1A8971E199EACDA006CADD7 /* MODE MENU.png */,
+				B1A8971F199EACDA006CADD7 /* RECEIPT MODE.png */,
+				B1A89720199EACDA006CADD7 /* SERVER.png */,
+				B1A89721199EACDA006CADD7 /* SERVERsmall.png */,
 				9548240E19990076000745FE /* iTip test-Info.plist */,
 				9548240F19990076000745FE /* InfoPlist.strings */,
 				9548241219990076000745FE /* main.m */,
@@ -264,10 +318,28 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B1A8972A199EACDA006CADD7 /* FACE.png in Resources */,
+				B1A89722199EACDA006CADD7 /* BAR LEFT.png in Resources */,
+				B1A89732199EACDA006CADD7 /* SERVER.png in Resources */,
+				B1A8972B199EACDA006CADD7 /* FACEsmall.png in Resources */,
 				9548241D19990076000745FE /* Main_iPad.storyboard in Resources */,
+				B1A89725199EACDA006CADD7 /* BURGERsmall.png in Resources */,
+				B1A89729199EACDA006CADD7 /* DOLLAR B.png in Resources */,
+				B1A8972D199EACDA006CADD7 /* ICON SPLASH.png in Resources */,
+				B1A89730199EACDA006CADD7 /* MODE MENU.png in Resources */,
 				9548242219990076000745FE /* Images.xcassets in Resources */,
+				B1A89723199EACDA006CADD7 /* BAR RIGHT.png in Resources */,
+				B1A89726199EACDA006CADD7 /* CLOCK.png in Resources */,
+				B1A89724199EACDA006CADD7 /* BURGER.png in Resources */,
 				9548241A19990076000745FE /* Main_iPhone.storyboard in Resources */,
+				B1A8972E199EACDA006CADD7 /* INTRO SLIDER MODE.png in Resources */,
+				B1A89727199EACDA006CADD7 /* CLOCKsmall.png in Resources */,
+				B1A8972F199EACDA006CADD7 /* JERKFACE MODE.png in Resources */,
+				B1A89731199EACDA006CADD7 /* RECEIPT MODE.png in Resources */,
 				9548241119990076000745FE /* InfoPlist.strings in Resources */,
+				B1A89728199EACDA006CADD7 /* DOLLAR A.png in Resources */,
+				B1A89733199EACDA006CADD7 /* SERVERsmall.png in Resources */,
+				B1A8972C199EACDA006CADD7 /* GESTURE MODE.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

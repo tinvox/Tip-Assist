@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5B282AB0-7C38-4651-A5C0-F82F712BE424</string>
+	<key>IDESourceControlProjectName</key>
+	<string>iTip test</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5ECBB607-CB41-416B-8911-1433E478488A</key>
+		<string>https://github.com/gabewalker5464/iTip-/trunk</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iTip test.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5ECBB607-CB41-416B-8911-1433E478488A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>5ECBB607-CB41-416B-8911-1433E478488A</key>
+		<string>https://github.com/gabewalker5464/iTip-</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/gabewalker5464/iTip-/trunk/iTip%20test.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5ECBB607-CB41-416B-8911-1433E478488A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryBranchesRelativeLocationKey</key>
+			<string>branches</string>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
+			<string>trunk</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5ECBB607-CB41-416B-8911-1433E478488A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iTip-</string>
+		</dict>
+	</array>
+</dict>
+</plist>
